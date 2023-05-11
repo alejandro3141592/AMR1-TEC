@@ -3,6 +3,8 @@ Vehículo eléctrico autónomo desarrollado por el Tecnológico de Monterrey par
 
 Este vehículo, es desarrollado por un grupo de profesor y alumnos del Tecnológico de Monterrey, es 100% eléctrico y cuenta con los sistemas principales de un vehículo: Frenos, Dirección, Tren Motriz, Arneses, Control. Actualmente, sigue en fase de desarrollo, es controlado via control remoto, pero se están hacinedo las adecuaciones pertinenetes para que sea autónmo, para el cual se incluirán tecnologías como el LIDAR, visión por computadora e inteligencia artidicial.
 
+![AMR](https://github.com/alejandro3141592/AMR1-TEC/blob/main/Amr.png)
+
 ## Mi papel en el proyecto
 
 Entre mis principales aportaciones a este proyecto, están el diseño de la [placa de potencia](https://github.com/alejandro3141592/AMR1-TEC/blob/main/PlacaDireccionV7.pdsprj) correspondiente a la dirección, también, contribuí al diseño de una placa que sería la encargada de la integración de varios sensores correspondientes a la navegación del vehículo, tanto en el [diagrama esquemático](https://github.com/alejandro3141592/AMR1-TEC/blob/main/NavegacionPlaca.sch) , como al [diseño de la PCB](https://github.com/alejandro3141592/AMR1-TEC/blob/main/NavegacionPlaca.brd).
